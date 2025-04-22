@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.btn-pink {
+    background-color: #e83e8c !important; /* Rosa */
+    color: white !important;
+ }
+ 
+ .btn-purple {
+    background-color: #6f42c1 !important; /* Morado */
+    color: white !important;
+ }
+ 
